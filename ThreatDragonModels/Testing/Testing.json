@@ -1,0 +1,20 @@
+{
+  "version": "2.2.0",
+  "summary": {
+    "title": "Testing",
+    "owner": "Christian Castillo",
+    "description": "This threat model is for educational purposes only",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "christian_mir_g_castillo@dlsu.edu.ph"
+      }
+    ],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "The Owner",
+    "threatTop": 0
+  }
+}
